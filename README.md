@@ -1,2 +1,2 @@
 # toby-arduino
-An Arduino helper library for Toby.
+Toby client library for Arduino.
